@@ -1,0 +1,57 @@
+i.fa-solid.fa-power-off {
+    margin-top: 12px;
+    color: white;
+    margin-left: 10px;
+}
+p#navbarDropdownMenuLink {
+    color: white;
+    font-weight: 500;
+}
+.fullnav{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+h5.homebar {
+    color: white;
+    margin-top: 6.5px;
+    margin-right: 3px;
+}
+
+.customcontainer {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.item {
+    margin-left: 18px;
+    padding-left: 10px;
+}
+.prhh{
+
+    padding-top: 17px;
+    padding-bottom: 14px;
+    padding-left: 400px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.conitem{
+    margin-left: 190px;
+}
+
+tr.headofta {
+    background-color: #45414F;
+    color: white;
+    border-color: #767171;
+}
+.row {
+    padding-top: 10px;
+    padding-bottom: 59px;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+
+
+

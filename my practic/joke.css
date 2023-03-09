@@ -1,0 +1,42 @@
+*{
+   padding: 0;
+   margin: 0;
+  
+}
+.webbody{ 
+  
+}
+i.fa-solid.fa-lightbulb {
+    margin: 37px;
+    font-size: 41px;
+    box-shadow: -5px -5px 15px 3px lightblue;
+    background: transparent;
+    color: blue;
+    outline: none;
+    border: none;
+}
+
+.jokebody {
+    background-color: #d1e6e2;
+    width: 528px;
+    height: 232px;
+    margin-left: 195px;
+    border-radius: 14px;
+}
+button.btn.btn-primary {
+    margin-left: 430px;
+    margin-top: -23px;
+}
+p {
+    padding-top: 38px;
+    padding-left: 21px;
+}
+i.fa-solid.fa-sun {
+    margin: 10px;
+}
+p {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #372c38;
+}
+   
